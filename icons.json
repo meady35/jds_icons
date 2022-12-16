@@ -1,0 +1,128 @@
+{
+  "US Mail Offer": {
+  "name": "icon-send_16",
+  "color": "gold"
+  },
+  "SMS": {
+    "name": "icon-sms_16",
+    "color": "mint"
+  },
+  "Telephony": {
+    "name": "icon-handset-active_16",
+    "color": "green"
+  },
+  "Voice": {
+    "name": "icon-handset-active_16",
+    "color": "green"
+  },
+  "Parts": {
+    "name": "icon-cpu_16",
+    "color": "mint"
+  },
+  "Email": {
+    "name": "icon-email-active_16",
+    "color": "cobalt"
+  },
+  "Service": {
+    "name": "icon-applause_16",
+    "color": "cobalt"
+  },
+  "task": {
+    "name": "icon-tasks_16",
+    "color": "yellow"
+  },
+  "Purchase": {
+    "name": "icon-drive-mode_20",
+    "color": "mint"
+  },
+  "Page Visit": {
+    "name": "icon-mouse-cursor_16",
+    "color": "grey"
+  },
+  "Entered ZipCode": {
+    "name": "icon-location_16",
+    "color": "cyan"
+  },
+  "Identify": {
+    "name": "icon-user_16",
+    "color": "blue"
+  },
+  "Quote": {
+    "name": "icon-file-spreadsheet_16",
+    "color": "cobalt",
+    "showcase": "firstName"
+  },
+  "NPS.*": {
+    "name": "icon-analysis_16",
+    "color": "red"
+  },
+  "Initiated Walk In": {
+    "name": "icon-audio-video_16",
+    "color": "orange"
+  },
+  "Past Due Letter": {
+    "name": "icon-flag-active_16",
+    "color": "red"
+  },
+  "Invoice": {
+    "name": "icon-document-move_16",
+    "color": "gold"
+  },
+  "Payment": {
+    "name": "icon-event_16",
+    "color": "green",
+    "showcase": "user"
+  },
+  "Survey Response Collected": {
+    "name": "icon-report_16",
+    "color": "gold"
+  },
+  "CRM Update": {
+    "name": "icon-pin_16",
+    "color": "lime"
+  },
+  "Service Suspension": {
+    "name": "icon-humidity_14",
+    "color": "red"
+  },
+  "Service Reinstatement": {
+    "name": "icon-blur_24",
+    "color": "mint"
+  },
+  "Service Interuption": {
+    "name": "icon-emoticon-sad_24",
+    "color": "orange"
+  },
+  "emoticon-happy": {
+    "name": "icon-emoticons_16",
+    "color": "green"
+  },
+  "OTP-pass": {
+    "name": "icon-private-circle_16",
+    "color": "green"
+  },
+  "Web": {
+    "name": "icon-exit-room_24",
+    "color": "green"
+  },
+  "Information": {
+    "name": "icon-info_16",
+    "color": "gold"
+  },
+  "Return": {
+    "name": "icon-redial_24",
+    "color": "cyan"
+  },
+  "Store Visit": {
+    "name": "icon-house_24",
+    "color": "mint"
+  },
+  "Survey": {
+    "name": "icon-check_24",
+    "color": "red"
+  },
+  "Abandon": {
+    "name": "icon-battery_24",
+    "color": "red"
+  }
+}
