@@ -1,7 +1,7 @@
 {
-  "US Mail Offer": {
-  "name": "icon-send_16",
-  "color": "gold"
+  "social": {
+  "name": "icon-contact-group_16",
+  "color": "mint"
   },
   "SMS": {
     "name": "icon-sms_16",
@@ -9,31 +9,31 @@
   },
   "Telephony": {
     "name": "icon-handset-active_16",
-    "color": "gold"
+    "color": "green"
   },
   "Voice": {
     "name": "icon-handset-active_16",
-    "color": "gold"
+    "color": "green"
   },
-  "Parts": {
-    "name": "icon-cpu_16",
-    "color": "mint"
+  "Chat": {
+    "name": "icon-chat-active_16",
+    "color": "cobalt"
   },
   "Email": {
     "name": "icon-email-active_16",
-    "color": "cobalt"
+    "color": "violet"
   },
-  "Service": {
-    "name": "icon-applause_16",
+  "Messenger": {
+    "name": "icon-messenger_16",
     "color": "cobalt"
   },
   "task": {
     "name": "icon-tasks_16",
     "color": "yellow"
   },
-  "Purchase": {
-    "name": "icon-drive-mode_20",
-    "color": "mint"
+  "Login": {
+    "name": "icon-sign-in_24",
+    "color": "gold"
   },
   "Page Visit": {
     "name": "icon-mouse-cursor_16",
@@ -60,38 +60,38 @@
     "name": "icon-audio-video_16",
     "color": "orange"
   },
-  "Past Due Letter": {
-    "name": "icon-flag-active_16",
-    "color": "red"
+  "IMI_Inbound": {
+    "name": "icon-call-incoming_16",
+    "color": "green"
   },
-  "Invoice": {
-    "name": "icon-document-move_16",
-    "color": "gold"
+  "IMI_Outbound": {
+    "name": "icon-call-outgoing_16",
+    "color": "darkmint"
   },
-  "Payment": {
+  "Trigger Sent to Server": {
     "name": "icon-event_16",
-    "color": "green",
+    "color": "violet",
     "showcase": "user"
   },
   "Survey Response Collected": {
     "name": "icon-report_16",
     "color": "gold"
   },
-  "CRM Update": {
-    "name": "icon-pin_16",
-    "color": "lime"
+  "whatsApp": {
+    "name": "icon-whatsApp_16",
+    "color": "green"
   },
-  "Service Suspension": {
-    "name": "icon-humidity_14",
-    "color": "red"
+  "calendarDate": {
+    "name": "icon-calendar-month_16",
+    "color": "green"
   },
-  "Service Reinstatement": {
-    "name": "icon-blur_24",
-    "color": "mint"
+  "emoticon-passive": {
+    "name": "icon-emoticon-passive_24",
+    "color": "yellow"
   },
-  "Service Interuption": {
+  "emoticon-sad": {
     "name": "icon-emoticon-sad_24",
-    "color": "orange"
+    "color": "red"
   },
   "emoticon-happy": {
     "name": "icon-emoticons_16",
@@ -101,28 +101,40 @@
     "name": "icon-private-circle_16",
     "color": "green"
   },
-  "Web": {
-    "name": "icon-exit-room_24",
-    "color": "green"
+  "OTP-fail": {
+    "name": "icon-private-circle_16",
+    "color": "red"
   },
   "Information": {
     "name": "icon-info_16",
     "color": "gold"
   },
-  "Return": {
-    "name": "icon-redial_24",
-    "color": "cyan"
+  "Webex": {
+    "name": "icon-webex-teams_16",
+    "color": "purple"
   },
-  "Store Visit": {
-    "name": "icon-house_24",
-    "color": "mint"
+  "bot": {
+    "name": "icon-bot_16",
+    "color": "orange"
   },
-  "Survey": {
-    "name": "icon-check_24",
+  "Callback": {
+    "name": "icon-icon-callback_16",
+    "color": "purple"
+  },
+  "WrapCode": {
+    "name": "icon-favorite-active_16",
+    "color": "orange"
+  },
+  "Password Lockout": {
+    "name": "icon-secure-circle_16",
     "color": "red"
   },
-  "Abandon": {
-    "name": "icon-battery_24",
+  "Form Filled": {
+    "name": "icon-document-share_16",
+    "color": "blue"
+  },
+  "System Outage": {
+    "name": "icon-server-error_16",
     "color": "red"
   }
 }
